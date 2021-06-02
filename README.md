@@ -28,7 +28,7 @@ ___
 ----
 
  ## Installation
- No installation steps are required to view this project.The application can be viewed live here at [Work Day Scheduler]()
+ No installation steps are required to view this project.The application can be viewed live here at [Work Day Scheduler](https://nishadkurup.github.io/Work-Day-Scheduler/)
 
 
 [Back to Table](#table-of-contents) 
